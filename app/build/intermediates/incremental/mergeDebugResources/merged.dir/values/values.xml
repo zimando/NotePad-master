@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">	#AFEEEE</color>
+    <color name="colorFirst">#FFEFD5</color>
+    <color name="colorGreen">#7FFF00</color>
+    <color name="colorRed">#FFB6C1</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#FFEC8B</color>
+    <color name="color_purple">#8B658B</color>
+    <string name="app_name">记事本</string>
+    <string name="button_ok">OK</string>
+    <string name="error_message">Error loading note</string>
+    <string name="error_title">错误</string>
+    <string name="live_folder_name">记事</string>
+    <string name="menu_add">新记事</string>
+    <string name="menu_color">颜色</string>
+    <string name="menu_copy">复制</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_open">打开</string>
+    <string name="menu_paste">粘贴</string>
+    <string name="menu_revert">Revert changes</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_search">搜索</string>
+    <string name="menu_sort">排序</string>
+    <string name="menu_sort_color">颜色</string>
+    <string name="menu_sort_create">创建时间</string>
+    <string name="menu_sort_edit">修改时间</string>
+    <string name="nothing_to_save">There is nothing to save</string>
+    <string name="resolve_edit">修改内容</string>
+    <string name="resolve_title">修改标题</string>
+    <string name="text_title">标题:</string>
+    <string name="title_create">新记事</string>
+    <string name="title_edit">修改: %1$s</string>
+    <string name="title_edit_title">标题:</string>
+    <string name="title_notes_list">记事本</string>
+    <string name="title_notes_search">搜索</string>
+</resources>
