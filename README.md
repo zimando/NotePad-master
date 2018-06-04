@@ -1,12 +1,12 @@
 # NotePad
 #### 空主界面
-##### 直接显示手机桌面背景
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/1.png)
 
 #### 添加笔记
 ##### （下端有时间显示）
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/2.png)
 #### 笔记内容
+##### 笔记初始化就有背景颜色
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/8.png)
 #### 为笔记修改颜色
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/9.png)
