@@ -11,7 +11,7 @@
 #### 多建几个笔记
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/6.png)
 #### 搜索的主界面
-![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/7png)
+![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/7.png)
 #### 用“O”来搜索 
 ##### （模糊搜索）
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/8.png)
