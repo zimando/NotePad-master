@@ -303,6 +303,9 @@ public class NoteEditor extends Activity {
             int x = mCursor.getInt(mCursor.getColumnIndex(NotePad.Notes.COLUMN_NAME_BACK_COLOR));
             switch (x) {
                 case NotePad.Notes.DEFAULT_COLOR:
+                    mText.setBackgroundColor(Color.rgb(255, 255, 255));
+                    break;
+                case NotePad.Notes.FIRST_COLOR:
                     mText.setBackgroundColor(Color.rgb(255, 239, 213));
                     break;
                 case NotePad.Notes.YELLOW_COLOR:
@@ -318,7 +321,7 @@ public class NoteEditor extends Activity {
                     mText.setBackgroundColor(Color.rgb(255, 182, 193));
                     break;
                 case NotePad.Notes.PURPLE_COLOR:
-                    mText.setBackgroundColor(Color.rgb(139, 101, 8));
+                    mText.setBackgroundColor(Color.rgb(221, 160, 221));
                 default:
                     mText.setBackgroundColor(Color.rgb(255, 255, 255));
                     break;

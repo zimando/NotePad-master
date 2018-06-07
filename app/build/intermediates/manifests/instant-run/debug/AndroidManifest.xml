@@ -157,7 +157,8 @@
         <!-- 添加搜索activity -->
         <activity
             android:name="com.example.android.notepad.NoteSearch"
-            android:label="@string/title_notes_search" >
+            android:label="@string/title_notes_search"
+            android:theme="@android:style/Theme.Holo.Wallpaper" >
         </activity>
 
         <provider

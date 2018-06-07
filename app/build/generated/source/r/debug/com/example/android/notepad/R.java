@@ -13,10 +13,10 @@ public final class R {
     public static final int colorBlue=0x7f010001;
     public static final int colorFirst=0x7f010002;
     public static final int colorGreen=0x7f010003;
-    public static final int colorRed=0x7f010004;
-    public static final int colorWhite=0x7f010005;
-    public static final int colorYellow=0x7f010006;
-    public static final int color_purple=0x7f010007;
+    public static final int colorPurple=0x7f010004;
+    public static final int colorRed=0x7f010005;
+    public static final int colorWhite=0x7f010006;
+    public static final int colorYellow=0x7f010007;
   }
   public static final class drawable {
     public static final int app_notes=0x7f020000;

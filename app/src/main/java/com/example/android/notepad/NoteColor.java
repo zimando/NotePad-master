@@ -54,6 +54,10 @@ public class NoteColor extends Activity {
         color = NotePad.Notes.DEFAULT_COLOR;
         finish();
     }
+    public void first(View view){
+        color = NotePad.Notes.FIRST_COLOR;
+        finish();
+    }
     public void yellow(View view){
         color = NotePad.Notes.YELLOW_COLOR;
         finish();

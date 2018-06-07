@@ -16,7 +16,7 @@
         android:layout_height="50dp"
         android:layout_weight="1"
         android:background="@color/colorFirst"
-        android:onClick="white"/>
+        android:onClick="first"/>
 
     <ImageButton
         android:id="@+id/color_yellow"
@@ -54,7 +54,7 @@
         android:layout_width="0dp"
         android:layout_height="50dp"
         android:layout_weight="1"
-        android:background="@color/color_purple"
-        android:onClick="red"/>
+        android:background="@color/colorPurple"
+        android:onClick="purple"/>
 
 </LinearLayout>

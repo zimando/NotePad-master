@@ -42,11 +42,12 @@ public final class NotePad {
         private Notes() {}
         //颜色
         public static final int DEFAULT_COLOR = 0; //白
-        public static final int YELLOW_COLOR = 1; //黄
-        public static final int BLUE_COLOR = 2; //蓝
-        public static final int GREEN_COLOR = 3; //绿
-        public static final int RED_COLOR = 4; //红
-        public static final int PURPLE_COLOR = 5; //紫
+        public static final int FIRST_COLOR = 1;
+        public static final int YELLOW_COLOR = 2; //黄
+        public static final int BLUE_COLOR = 3; //蓝
+        public static final int GREEN_COLOR = 4; //绿
+        public static final int RED_COLOR = 5; //红
+        public static final int PURPLE_COLOR = 6; //紫
 
         /**
          * The table name offered by this provider

@@ -4,10 +4,10 @@
     <color name="colorBlue">	#AFEEEE</color>
     <color name="colorFirst">#FFEFD5</color>
     <color name="colorGreen">#7FFF00</color>
+    <color name="colorPurple">#DDA0DD</color>
     <color name="colorRed">#FFB6C1</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorYellow">#FFEC8B</color>
-    <color name="color_purple">#8B658B</color>
     <string name="app_name">记事本</string>
     <string name="button_ok">OK</string>
     <string name="error_message">Error loading note</string>
