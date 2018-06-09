@@ -24,19 +24,13 @@
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/26.png)
 <br>并且创建搜索的布局
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/27.png)
-<br> 在AndriodManifest.xml中注册，并且给搜索界面的主题改成Wallpaper，表示直接显示桌面背景
+<br> 在AndriodManifest.xml中注册，并且给搜索界面的主题改成Wallpaper，表示直接显示桌面背景 <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/32.png)
 #### 用“O”来搜索 
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/8.png)
-搜索采用的是模糊搜索
+搜索采用的是模糊搜索 <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/25.png)
-#### 长按笔记
-![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/9.png)
-#### 修改标题
-##### （first改为firstttt）
-![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/10.png)
-![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/11.png)
-##### 标题改后
+#### 长按笔记修改标题将first改为firstttt 标题更改后
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/12.png)
 
 #### 为笔记修改颜色
