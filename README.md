@@ -11,6 +11,7 @@
 时间显示是在layout中的noteslist_item中添加一个时间的Testview
 <br>![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/35.png)
 <br> 通过数据库的调用，并更改时间的显示模式
+<br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/29.png)
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/36.png)
 <br> 最终呈现的主界面上的记事 
