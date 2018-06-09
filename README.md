@@ -4,8 +4,7 @@
 <br>  
 在AndriodManifest.xml中，给主界面的主题改成Wallpaper，表示直接显示桌面背景
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/30.png)
-#### 添加笔记
-##### 添加新的笔记，默认底色为白色
+#### 添加新的笔记，默认底色为白色
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/2.png)
 #### 保存后主界面，记事的底色为白色,且有时间显示在下方，且根据记事的修改时间会改变
 时间显示是在layout中的noteslist_item中添加一个时间的Testview
@@ -18,21 +17,20 @@
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/5.png)
 多建几个记事
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/6.png)
+<br> <br> 
 ### 搜索的主界面
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/7.png)
 <br>创建搜索的anctivity <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/26.png)
-<br>并且创建搜索的布局
+<br>并且创建搜索的布局 <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/27.png)
 <br> 在AndriodManifest.xml中注册，并且给搜索界面的主题改成Wallpaper，表示直接显示桌面背景 <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/32.png)
 #### 用“O”来搜索 
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/8.png)
-搜索采用的是模糊搜索 <br>
+<br> 搜索采用的是模糊搜索 <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/25.png)
-#### 长按笔记修改标题将first改为firstttt 标题更改后
-![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/12.png)
-
+<br> <br> 
 #### 为笔记修改颜色
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/15.png)
 #### 修改后
