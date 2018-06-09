@@ -38,15 +38,23 @@
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/33.png)
 <br> 将颜色填充到ListView，用bindView来实现。自定义一个MyCursorAdapter继承SimpleCursorAdapter，既能完成cursor读取的数据库内容填充到item，又能将颜色填充 <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/39.png)
-##### 修改颜色           修改后
-![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/15.png)          
+##### 修改颜色 
+<br>记事本内修改的颜色
+![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/15.png)    
+修改后的颜色
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/16.png)
 #### 修改后主界面的背景也改变
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/17.png)
 ##### 多更改几个颜色，主界面的显示
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/18.png)
-#### 可按照颜色排序
+<br>
+### 可按照色排序
+<br> 先在菜单文件list_options_menu.xml中添加: <br>
+![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/40.png)
+<br> 再在NodeList中添加关于颜色排序的case <br>
+![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/41.png)
+<br> 最后界面的样式 <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/19.png)
 #### 按颜色顺序排的
-##### 白色是第一 肉色第二 黄色第三 蓝色第四 绿色第五 粉色第六 紫色最
+<br> 白色是第一 肉色第二 黄色第三 蓝色第四 绿色第五 粉色第六 紫色最后 按之前定义的数字来排序 <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/20.png)
