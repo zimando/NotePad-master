@@ -12,10 +12,9 @@
 <br>![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/35.png)
 通过数据库的调用，并更改时间的显示模式
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/36.png)
-<br> 最终呈现的主界面上的记事如下
+<br> 最终呈现的主界面上的记事如下         多建几个笔记
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/5.png)
-#### 多建几个笔记
-![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/6.png)
+>>>>> ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/6.png)
 #### 搜索的主界面
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/7.png)
 #### 用“O”来搜索 
