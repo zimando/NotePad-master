@@ -1,8 +1,8 @@
 # NotePad
 * 做的工作为
-** UI美化
-** 修改背景颜色
-** 按照修改的背景颜色来排序
+** UI美化 <br> 
+** 修改背景颜色 <br> 
+** 按照修改的背景颜色来排序 <br> 
 #### 空主界面
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/1.png)
 <br>  
@@ -34,7 +34,7 @@
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/8.png)
 <br> 搜索采用的是模糊搜索 <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/25.png)
-<br> <br> 
+<br> <br>
 #### 为笔记修改颜色
 <br> 笔记一共有7个颜色，首先在NotePad契约类中添加
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/24.png)
