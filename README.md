@@ -19,10 +19,8 @@
 多建几个记事
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/6.png)
 ### 搜索的主界面
-<br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/7.png)
-<br>  
-创建搜索的anctivity
+<br>  创建搜索的anctivity
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/26.png)
 并且创建搜索的布局
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/27.png)
