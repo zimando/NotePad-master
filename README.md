@@ -38,9 +38,8 @@
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/33.png)
 <br> 将颜色填充到ListView，用bindView来实现。自定义一个MyCursorAdapter继承SimpleCursorAdapter，既能完成cursor读取的数据库内容填充到item，又能将颜色填充 <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/39.png)
-##### 修改颜色
-![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/15.png)
-##### 修改后
+##### 修改颜色           修改后
+![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/15.png)          
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/16.png)
 #### 修改后主界面的背景也改变
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/17.png)
