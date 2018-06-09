@@ -9,7 +9,7 @@
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/2.png)
 #### 保存后主界面，记事的底色为白色,且有时间显示在下方，且根据记事的修改时间会改变
 <br>
-时间显示是在layout中的noteslist_item中添加一个时间的Testview
+时间显示是在layout中的noteslist_item中添加一个时间的Testview <br>
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/35.png)
 通过数据库的调用，并更改时间的显示模式
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/36.png)
