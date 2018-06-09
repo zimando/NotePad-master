@@ -1,4 +1,8 @@
 # NotePad
+* 做的工作为
+** UI美化
+** 修改背景颜色
+** 按照修改的背景颜色来排序
 #### 空主界面
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/1.png)
 <br>  
