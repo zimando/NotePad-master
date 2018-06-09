@@ -1,11 +1,13 @@
 # NotePad
 #### 空主界面
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/1.png)
-
+<br>  
+在AndriodManifest.xml中，给主界面的主题改成Wallpaper，表示直接显示桌面背景
+![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/30.png)
 #### 添加笔记
 ##### 添加新的笔记，默认底色为白色
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/2.png)
-#### 保存后主界面，底色为白色
+#### 保存后主界面，记事的底色为白色
 ##### （有时间显示在下方）
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/5.png)
 #### 多建几个笔记
@@ -35,6 +37,6 @@
 #### 可按照颜色排序
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/19.png)
 #### 按颜色顺序排的
-##### 白色是第一 肉色第二 黄色第三 蓝色第四 绿色第五 粉色第六 紫色最后
+##### 白色是第一 肉色第二 黄色第三 蓝色第四 绿色第五 粉色第六 紫色最
 ![image](https://github.com/zimando/NotePad-master/raw/master/app/src/main/res/drawable/20.png)
 
